@@ -1,0 +1,15 @@
+modLoader="javafml" #mandatory
+loaderVersion="[35,)" #mandatory
+license="All rights reserved" #mandatory https://choosealicense.com/
+ 
+[[mods]] #mandatory
+modId="exodus" #mandatory
+version="1.0.0" #mandatory
+displayName="Exodus" #mandatory
+logoFile="examplemod.png" #optional
+credits="nuked44(me) and all the people that like this mod" #optional
+authors="nuked44" #optional
+description='''
+An endgame mod for modpacks
+''' #mandatory
+ 
